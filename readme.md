@@ -12,7 +12,7 @@
 Bot generates sharable link inside telegram for documents and make files public via inline search<br><br><br><br>
        
 
-[![HITECH](https://img.shields.io/badge/LKHITECH-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)
+[![HITECH](https://telegram.dog/Cinemas_World1)
 
 # Deploy Heroku 
 
@@ -29,7 +29,7 @@ Bot generates sharable link inside telegram for documents and make files public 
 
 <code>DOMAIN</code> - Same as app name that you enter in heroku
 
-<code>ADMIN</code> - your account id(if you cant find it use bots like [@getidsbot](https://t.me/getidsbot) )
+<code>ADMIN</code> - your account id )
 
 <code>BOTUSERNAME</code> - your bot username without '@'
 
